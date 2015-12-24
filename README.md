@@ -60,6 +60,7 @@ Hodor 是一套可让你的应用快速支持本地化的解决方案, 允许你
 
 ![](http://ww3.sinaimg.cn/large/76dc7f1bjw1eykaqnh42dj21kw12mq6w.jpg)
 
+
 ## 使用
 
 基本的用法:

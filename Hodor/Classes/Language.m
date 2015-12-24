@@ -15,6 +15,7 @@ NSString *const LanguageCodeIdIndentifier = @"LanguageCodeIdIndentifier";
 
 + (void)initialize {
      NSString *current = @"zh-Hans";
+    NSLog(@"...........current......%@",current);
     [self setLanguage:current];
 }
 
